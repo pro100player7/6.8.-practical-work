@@ -1,0 +1,14 @@
+a
+{
+    text-decoration: none;
+    background-color: rgb(1, 41, 18);
+    color:beige;
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+body
+{
+    padding-top: 200px;
+    text-align: center;
+}
